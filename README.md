@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 </picture>
 
 
-[![GIF](https://github.com/KING0712/KING0712/blob/main/KING0712.gif)](https://github.com/KING0712)
-   [![ 𝗠𝗥 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=KING0712 "KING0712")](https://github-stats-alpha.vercel.app/api?username=KING0712 "KING0712")
+[![GIF](https://github.com/wwwlbs22/wwwlbs22/blob/main/wwwlbs22.gif)](https://github.com/wwwlbs22)
+   [![ 𝗠𝗥 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🔥+𝗠𝗥+𝗞𝗜𝗡𝗚+👑">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KING0712&show_icons=true&locale=en&layout=compact" alt="KING0712" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwlbs22&show_icons=true&locale=en&layout=compact" alt="KING0712" /></p>
 
 ### Contact :
 <a href="https://t.me/II_BAD_MUNDA_II"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
@@ -62,6 +62,6 @@ Here are some ideas to get you started:
 
 
 <!---
-KING0712/KING0712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wwwlbs22/wwwlbs22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
