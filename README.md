@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">
+ [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
+
+
+ 
+ <p align="center">
+  <img src="https://telegra.ph/file/c0465bd13875b249a9a8f.jpg">
