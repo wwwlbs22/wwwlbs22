@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 [![GIF](https://github.com/wwwlbs22/wwwlbs22/blob/main/wwwlbs22.gif)](https://github.com/wwwlbs22)
-   [![ 𝗠𝗥 𝘼𝙍𝙏𝙄𝙎𝙏 ](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")
+   [!](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")
 
 
 
