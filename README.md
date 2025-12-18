@@ -53,6 +53,11 @@ Here are some ideas to get you started:
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=agentnova&include_all_commits=true&theme=dark&hide=issues,prs&hide_border=true&show_icons=true&count_private=true&noc=true&aod=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agentnova&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwlbs22&show_icons=true&locale=en&layout=compact" alt="KING0712" /></p>
 
 ### Contact :
