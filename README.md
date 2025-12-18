@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwlbs22&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwlbs22&show_icons=true&locale=en&layout=compact" alt="KING0712" /></p>
-
 ### Contact :
 <a href="https://t.me/ARTIST_i_NETWORK"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://instagram.com/the_artist_zx"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
