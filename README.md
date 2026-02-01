@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=wwwlbs22&label=Profile%20views&color=0e75b6&style=flat" alt="wwwlbs22" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">████████████▒</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  <source
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
   srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
 <h2 align="center">
 
-<h3 align="center">████████████▒</h3>
  [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
 
 
