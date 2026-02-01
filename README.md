@@ -37,11 +37,7 @@ Here are some ideas to get you started:
 
  [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
 
-# My Profile
-
-<p align="center">
-  <img src="https://photo.chelpbot.me/CgACAgQAAxkBZOTAKGl_Yj08zdcRRQnQqEYVN6REoUjdAAKlBgAC6kPsUYzxiYY0ckFVOAQ/photo.jpg" alt="GIF" width="300"/>
-</p>
+![My GIF](https://photo.chelpbot.me/CgACAgQAAxkBZOTAKGl_Yj08zdcRRQnQqEYVN6REoUjdAAKlBgAC6kPsUYzxiYY0ckFVOAQ/photo.jpg)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
