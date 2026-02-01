@@ -55,7 +55,8 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-## 📊 GitHub Analytics
+
+📊𝐆𝐢𝐭𝐇𝐮𝐛 𝚲𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬
 
 <div align="center">
 
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wwwlbs22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 
 </div>
+
 
 [![GIF](https://github.com/wwwlbs22/wwwlbs22/blob/main/wwwlbs22.gif)](https://github.com/wwwlbs22)
    [![  ](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")
