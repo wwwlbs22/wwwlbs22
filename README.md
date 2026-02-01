@@ -36,11 +36,7 @@ Here are some ideas to get you started:
 <h2 align="center">
 
  [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
-# 👨‍🎨 HE ARTIST ✨ 
-
-## 🎨 GIF Portfolio
-
-![My Art GIF](https://photo.chelpbot.me/CgACAgQAAxkBZOTAKGl_Yj08zdcRRQnQqEYVN6REoUjdAAKlBgAC6kPsUYzxiYY0ckFVOAQ/photo.jpg)
+ 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
