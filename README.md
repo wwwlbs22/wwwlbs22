@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+   srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
 <h2 align="center">
  [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
 
