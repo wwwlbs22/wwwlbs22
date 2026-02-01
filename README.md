@@ -35,11 +35,8 @@ Here are some ideas to get you started:
   srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
 <h2 align="center">
 
- [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNWNld2w0YnY5ZTkweXk3YWU2YWp4dXRqanhtaTY1aWQ5YTlwMW51YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Bitcoin Coding" width="400" />
  
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
