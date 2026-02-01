@@ -36,7 +36,17 @@ Here are some ideas to get you started:
 <h2 align="center">
 
  [ ✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘ ]
-![GIF](https://gist.githubusercontent.com/wwwlbs22/CgACAgQAAxkBZOTAKGl_Yj08zdcRRQnQqEYVN6REoUjdAAKlBgAC6kPsUYzxiYY0ckFVOAQ/raw/photo.jpg)
+# 👨‍🎨 HE ARTIST ✨ 
+
+## 🎨 GIF Portfolio
+
+![My Art GIF](https://photo.chelpbot.me/CgACAgQAAxkBZOTAKGl_Yj08zdcRRQnQqEYVN6REoUjdAAKlBgAC6kPsUYzxiYY0ckFVOAQ/photo.jpg)
+
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwwlbs22&show_icons=true&theme=radical)
+
+## 🔗 Links
+- **GitHub:** github.com/wwwlbs22/wwwlbs22/
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
