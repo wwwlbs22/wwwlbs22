@@ -42,12 +42,6 @@ Here are some ideas to get you started:
 
 ![My Art GIF](https://photo.chelpbot.me/CgACAgQAAxkBZOTAKGl_Yj08zdcRRQnQqEYVN6REoUjdAAKlBgAC6kPsUYzxiYY0ckFVOAQ/photo.jpg)
 
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwwlbs22&show_icons=true&theme=radical)
-
-## 🔗 Links
-- **GitHub:** github.com/wwwlbs22/wwwlbs22/
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
