@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwwlbs22 &theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=████████████▒+████████████▒+████████████▒+████████████▒;████████████▒+████████████▒)](https://git.io/typing-svg)
 
    
